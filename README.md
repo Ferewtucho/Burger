@@ -1,4 +1,4 @@
-# burger
+# Burger
 
 A full stack burger-logger app. On the server side this app uses Node and MySQL to query and route data and Handlebars to generate HTML. this app also follows the MVC design pattern. On the client side uses Bootstrap for layout and style, and JQuery to validate user input.
 
