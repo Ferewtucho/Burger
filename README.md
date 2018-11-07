@@ -9,6 +9,6 @@ A full stack burger-logger app. On the server side this app uses Node and MySQL 
 <li>Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.</li>
 
 <li>Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.</li>
-<ul>
+</ul>
 
-<a href = "#" tyep = "_blank">Click here to see the demo.</a>
+<a href = "https://nameless-bayou-23172.herokuapp.com/" tyep = "_blank">Click here to see the demo.</a>
